@@ -42,11 +42,3 @@ for seat in seat_ids:
     elif int(seat-1) not in seat_ids:
         print(seat-1)
         break
-
-
-# all_seat_ids = set()
-# for i in range(63, 830):
-#     all_seat_ids.add(i)
-
-# my_seat_id = all_seat_ids.difference(seat_ids)
-# print(f"My seat_id = {my_seat_id}")
