@@ -1,5 +1,5 @@
 f = open("input_day7.txt", "r")
-# f = open("day7_example.txt", "r")
+# f = open("input_day7_pt1.txt", "r")
 # f = open("input_day7_pt2.txt", "r")
 rules = f.read().split("\n")
 
