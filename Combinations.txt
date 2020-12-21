@@ -1,0 +1,82 @@
+Number of valid configurations = 1
+==-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=
+1 choice = 1
+2 choices = 0
+3 choices = 0
+
+1 choice = 2
+2 choices = 0
+3 choices = 0
+
+1 choice = 3
+2 choices = 0
+3 choices = 0
+
+Number of valid configurations = 2
+==-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=
+1 choice = 1
+2 choices = 1
+3 choices = 0
+
+1 choice = 2
+2 choices = 1
+3 choices = 0
+
+1 choice = 3
+2 choices = 1
+3 choices = 0
+
+Number of valid configurations = 3
+==-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=
+1 choice = 1
+2 choices = 2
+3 choices = 0
+
+1 choice = 2
+2 choices = 2
+3 choices = 0
+
+1 choice = 3
+2 choices = 2
+3 choices = 0
+
+1 choice = 4
+2 choices = 2
+3 choices = 0
+
+Number of valid configurations = 4
+==-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=
+1 choice = 3
+2 choices = 1
+3 choices = 1
+
+1 choice = 4
+2 choices = 1
+3 choices = 1
+
+1 choice = 5
+2 choices = 1
+3 choices = 1
+
+1 choice = 6
+2 choices = 1
+3 choices = 1
+
+Number of valid configurations = 5
+==-=-=-=-=-=-=-=-=-=--=-=-==-=-=-=-=
+1 choice = 1
+2 choices = 3
+3 choices = 0
+
+1 choice = 2
+2 choices = 3
+3 choices = 0
+
+1 choice = 3
+2 choices = 3
+3 choices = 0
+
+1 choice = 4
+2 choices = 3
+3 choices = 0
+
